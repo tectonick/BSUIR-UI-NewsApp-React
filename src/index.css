@@ -93,5 +93,5 @@ a:hover{
 #not-found{
   color: chocolate;
   text-align: center;
-  display: none;
+  /* display: none; */
 }
